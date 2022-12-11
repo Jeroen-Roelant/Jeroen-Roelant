@@ -2,9 +2,9 @@
 
 
 
-<a href="https://www.linkedin.com/in/jeroen-roelant/" align="center">
-	<img src="https://www.alighaemi.com/wp/wp-content/uploads/LinkedIn-button.png" alt="Linkedin Icon">
-</a>
+> <a href="https://www.linkedin.com/in/jeroen-roelant/" align="center" style="">
+	<img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Linkedin Icon">
+</a> 
 
 
 ## 👨🏻‍🎓 About me

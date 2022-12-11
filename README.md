@@ -2,8 +2,8 @@
 
 
 
-> <a href="https://www.linkedin.com/in/jeroen-roelant/" align="center" style="">
-	<img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Linkedin Icon">
+<a href="https://www.linkedin.com/in/jeroen-roelant/" align="center" style="">
+	<img style="width: 30px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Linkedin Icon">
 </a> 
 
 

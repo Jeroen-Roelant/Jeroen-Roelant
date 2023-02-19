@@ -15,7 +15,7 @@
  - So far, most of my experience is in .NET, but I have also extensively worked in Java and frontend technologies like Angular and Ionic. My mixed reality courses are in Unity
  - Graphic design is also something that interests me other than CS.
  - I want to learn more about hardware, whether in education or just tinkering with it.
- - I plan to do an internship from february to june.
+ - I started my internship at Chipsoft in february.
 
 ## 🌐 Stats
 

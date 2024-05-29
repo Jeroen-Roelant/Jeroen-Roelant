@@ -3,10 +3,11 @@
 
 
 <a href="https://www.linkedin.com/in/jeroen-roelant/" align="center" style="">
-	<img style="width: 30px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Linkedin Icon">
+	<img style="width: 30px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="Linkedin Icon"> 
 </a> 
+
 <a href="https://jeroenroelant.tech" align="center" style="">
-	<img style="width: 30px;" src="https://jeroenroelant.tech/images/favicon.ico" alt="Linkedin Icon">
+	<img style="width: 30px;" src="https://jeroenroelant.tech/images/favicon.ico" alt="Linkedin Icon"> 
 </a> 
 
 ## 🌐 Stats

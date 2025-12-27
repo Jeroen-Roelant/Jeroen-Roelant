@@ -18,7 +18,7 @@
 			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
     </tr>
   </table>
-  <h2>Comfortable</h2>
+  <h2>Used</h2>
 	<table>
 		<tr>
 			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
@@ -36,5 +36,16 @@
 			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code></td>
 			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td>
 		</tr>
+	</table>
+	<h2>Interested</h2>
+		<table>
+		<tr>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code></td>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code></td>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberry Pi" title="Raspberry Pi"/></code></td>
+			<td><code><img width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="Matlab" title="Matlab"/></code></td>
+    	</tr>
 	</table>
 </div>

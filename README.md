@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeroen-roelant&show_icons=true&theme=merko)
+
 <div align="center">
   <h2>Main tech stack</h2>
   <table>
